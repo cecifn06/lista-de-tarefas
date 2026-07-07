@@ -1,0 +1,1 @@
+Aplicação de **Lista de Tarefas** desenvolvida como projeto de estudo para praticar desenvolvimento front-end. O objetivo deste projeto foi reforçar conhecimentos em **HTML5**, **CSS3** e **JavaScript**, aplicando conceitos de manipulação do DOM, eventos, arrays e lógica de programação na implementação de funcionalidades como adicionar, editar, remover e limpar tarefas.
